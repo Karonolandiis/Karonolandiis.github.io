@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Karonolandiis.github.io/Karonolandiis/sitemap.xml
+Sitemap: https://Karonolandiis.github.io/sitemap.xml
